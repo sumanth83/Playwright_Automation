@@ -1,7 +1,0 @@
--Created project by using npm init playwright@latest
-
-Post it asks few questions
--which program language it needs to support
--Where to keep end-to-end tests
--Install playwright browsers
-
